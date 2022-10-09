@@ -7,7 +7,7 @@
 
 
 ### Models(라이브러리) and Data
-- pandas에서 바로 plotly로 그래프를 제작하기 위해 chart_studio 사용
+- pandas에서 plotly로 그래프를 제작하기 위해 chart_studio 사용
 - EDA/
 - kakao 3,4분기 실적발표
 - 서울시 5대 범죄 발생현황 통계
