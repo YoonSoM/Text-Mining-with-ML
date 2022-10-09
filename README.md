@@ -1,4 +1,4 @@
-# text-mining-with-ML
+# text_mining_ML
 
 ### Objectives
 - 카카오_2020년도 3,4분기 실적분석(영업이익, 영업비용 변화, 고용분석과 매출액 비교 당기 순이익 계산)
