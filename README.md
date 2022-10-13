@@ -10,8 +10,9 @@
 ### Models(라이브러리) and Data
 - BeautifulSoup
 - pandas에서 plotly로 그래프를 제작하기 위해 chart_studio 사용
-- EDA/
+- EDA
 - kakao 3,4분기 실적발표
+- Text rank를 활용한 키워드 추출
 - 서울시 5대 범죄 발생현황 통계
 - 
 
