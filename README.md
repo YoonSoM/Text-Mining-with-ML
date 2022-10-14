@@ -25,7 +25,7 @@
 ### Progress
 - 데이터 분석 및 시각화
 - 데이터 정제
-- 
+- 텍스트 마이닝
 
 
 ### Retrospective
