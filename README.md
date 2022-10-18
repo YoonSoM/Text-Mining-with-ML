@@ -20,7 +20,7 @@
 
 ### Envs and Requirements
 - Colab
-- BeautifulSoup, Pandas, Matplotlib, Seaborn, networkx, gensim
+- BeautifulSoup, Pandas, Matplotlib, Seaborn, networkx, gensim, cufflinks
 
 
 ### Progress
