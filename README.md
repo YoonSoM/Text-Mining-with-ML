@@ -14,12 +14,13 @@
 - kakao 3,4분기 실적발표
 - Text rank를 활용한 키워드 추출
 - 서울시 5대 범죄 발생현황 통계
-- 
 
 
 
 
 ### Envs and Requirements
+- Colab
+- BeautifulSoup, Pandas, Matplotlib, Seaborn
 
 
 ### Progress
