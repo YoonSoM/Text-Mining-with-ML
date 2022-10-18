@@ -20,13 +20,23 @@
 
 ### Envs and Requirements
 - Colab
-- BeautifulSoup, Pandas, Matplotlib, Seaborn
+- BeautifulSoup, Pandas, Matplotlib, Seaborn, networkx, gensim
 
 
 ### Progress
 - 데이터 분석 및 시각화
 - 데이터 정제
 - 텍스트 마이닝
-
+- 웹 크롤링 
+- 불용어 사전 구축
+- TF-IDF 워드 클라우드
 
 ### Retrospective
+- 웹 크롤링과 ML 기초를 바탕으로 진행한 프로젝트
+- BeautifulSoup을 사용해 데이터를 크롤링하는 코드를 작성
+- 웹 크롤링을 기법으로 단기간에 방대한 데이터 확보가 가능함을 알게 되었고, 재사용 가능한 코드 작성의 중요성에 대해 배울 수 있었음
+- 정규표현식을 활용해 불필요한 문자 및 패턴이 있는 노이즈를 찾아 제거
+- Gensim 사용으로 결과 도출
+- KoNLPy의 사용자 사전 등록이 가능한 Komoran을 토크나이저로 선택
+- 실험을 통한 최적 에폭 및 토픽 갯수 설정(어떤 실험인지 적기)
+- 함수 Seed를 넣어 결과값을 고정시킨다는 것을 알게됨
